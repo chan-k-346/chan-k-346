@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chan-k-346
-- 👀 I’m interested in **3d data processing**.
-- 🌱 I’m currently learning **Agricultural civil engineering**.
+- 👀 I’m interested in **3d data**.
+- 🌱 I’m currently learning ???.
 - 💞️ I’m looking to collaborate on ???.
 - 📫 How to reach me `kazuma3267@gmail.com`
 - 😄 Pronouns: **he/him**
